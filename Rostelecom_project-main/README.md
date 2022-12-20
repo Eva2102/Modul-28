@@ -34,9 +34,6 @@ https://b2c.passport.rt.ru
 
 В файле requirements.py описаны используемые библиотеки.
 
-Чтобы клонировать репозиторий на свой локальный компьютер:
-git clone https://github.com/DariAleksandrovna/Rostelecom_project.git
-
 Чтобы добавить использованные в этом проекте библиотеки:
 pip install -r requirements.txt
 
